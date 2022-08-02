@@ -18,7 +18,7 @@ const NavBar = () => {
 
   return (
 
-    <div className={`flex flex-col gap-6 overflow-hidden bg-white border-r h-screen px-3 py-10 lg:py-6 lg:p-6 fixed lg:relative top-0 left-0 z-30
+    <div className={`flex flex-col gap-6 overflow-hidden bg-white border-r border-b rounded-b-md h-screen px-3 py-10  lg:py-6 lg:p-6 fixed lg:relative top-0 left-0 z-30
     ${widthMovile ? !navMovile ? "  w-[52px]" : "w-[250px] " : "w-full" }`}>
 
         

@@ -128,7 +128,7 @@ const TableUsers = () => {
                         <Status text={proj.status}/> 
                     </TableTd >
 
-                    <td className="text-gray-500 py-3">
+                    <td className="text-gray-500 py-3 px-2 xl:px-0">
                         <ProfileImg img={proj.id}
                         name={proj.lastUpdate.name} email={proj.lastUpdate.email} />
                     </td>

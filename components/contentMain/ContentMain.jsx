@@ -6,7 +6,7 @@ import Button from '../buttons/Button'
 
 const ContentMain = () => {
   return (
-    <div className="w-full flex flex-col gap-10 pl-16 px-2 py-10 lg:py-6  lg:p-6">
+    <div className="w-full flex flex-col gap-10 pl-16 px-2 pt-10 lg:pt-6 lg:px-6 pb-0">
 
         <div className="flex justify-between items-center flex-col gap-8 lg:flex-row lg:gap-0">
             <div className="text-center">
