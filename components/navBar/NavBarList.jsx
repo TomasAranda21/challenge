@@ -1,6 +1,6 @@
 import React from 'react'
 import Icons, {icons} from '../icons/Icons'
-import ProfileImg from '../profileImg/profileImg'
+import ProfileImg from '../profileImg/ProfileImg'
 import NavBarLi from './NavBarLi'
 
 const NavBarList = () => {
