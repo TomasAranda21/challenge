@@ -9,7 +9,7 @@ const NavBarList = () => {
     <nav className="grid h-screen">
 
         <ul className="flex flex-col gap-4 ">
-            <NavBarLi icon={icons.homeIcon} text="Proyects"/>
+            <NavBarLi icon={icons.homeIcon} text="Projects"/>
             <NavBarLi icon={icons.quotesIcon} text="Quotes"/>
             <NavBarLi icon={icons.contractIcon} text="Contracts"/>
             <NavBarLi icon={icons.notificationsIcon} text="Notifications"/>
@@ -20,7 +20,7 @@ const NavBarList = () => {
         <div className="grid gap-5 content-end">
             <ul className="flex justify-items-end flex-col gap-4 border-b pb-7">
                 <NavBarLi icon={icons.lifeIcon} text="Support"/>
-                <NavBarLi icon={icons.settingsIcon} text="Setting"/>
+                <NavBarLi icon={icons.settingsIcon} text="Settings"/>
 
             </ul>
 

@@ -21,7 +21,7 @@ const ContentMain = () => {
 
         <div className="flex gap-6 flex-col lg:flex-row">
             <Cards ammout="$100,000" text="Spent in Services"/>
-            <Cards ammout="20" text="Open Proyects"/>
+            <Cards ammout="20" text="Open Projects"/>
         </div>
         
 
